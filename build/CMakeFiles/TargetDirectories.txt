@@ -1,0 +1,3 @@
+/Users/emadsiddiq/Projects/BitMessenger/build/CMakeFiles/BitMessenger.dir
+/Users/emadsiddiq/Projects/BitMessenger/build/CMakeFiles/edit_cache.dir
+/Users/emadsiddiq/Projects/BitMessenger/build/CMakeFiles/rebuild_cache.dir
