@@ -2065,6 +2065,19 @@ CMakeFiles/BitMessenger.dir/src/main.cpp.o: \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/kademlia/dht_state.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/ip_filter.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/fingerprint.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/create_torrent.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/bencode.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/io.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/aux_/io.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/string_util.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/hasher.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/CommonCrypto/CommonDigest.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/os/availability.h \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/aux_/path.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/dirent.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/sys/dirent.h \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/aux_/throw.hpp \
+  /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/magnet_uri.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/alert_types.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/identify_client.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/stat.hpp \
@@ -2083,4 +2096,22 @@ CMakeFiles/BitMessenger.dir/src/main.cpp.o: \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/aux_/session_settings.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/ssl.hpp \
   /opt/homebrew/opt/libtorrent-rasterbar/include/libtorrent/socket_type.hpp \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/iostream
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/iostream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/fstream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_entry.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/file_status.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/file_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/perms.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/file_time_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/path.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/iomanip \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/operations.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/perm_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/space_info.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/u8path.h
